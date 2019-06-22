@@ -14,11 +14,14 @@ public class Demo01_git {
         System.out.println("hello git project");
         System.out.println("hello git project");
         System.out.println("hello git project");
+        //hellotest
     }
 
     public void method01() {
         int i = 0;
         i += 10;
         System.out.println(i);
+        System.out.println(i++);
+
     }
 }
